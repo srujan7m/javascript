@@ -4,7 +4,7 @@ var accountPassword = "12345"
 accountCity = "Jaipur"
 let accountState;
 
-// accountId = 2 // not allowed
+// accountId = 2  not allowed constant change nahi hoga //
 
 
 accountEmail = "hc@hc.com"
